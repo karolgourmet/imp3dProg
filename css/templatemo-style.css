@@ -366,6 +366,7 @@ nav {
   transform: translateY(10px);
   transition: .5s ease-in-out;
   text-transform: uppercase;
+  background-color: #f79600cf;
  }
 
  .full-screen-portfolio .portfolio-item {
